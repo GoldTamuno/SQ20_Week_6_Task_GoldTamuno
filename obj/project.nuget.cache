@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VoYEIM1eLE81D0UnoOKrxLCqlRQeLDo06FuEf6uC2X8Aw70VdOdCEI/n1AQYnYnx2rM56mF2dZk2wuWegTNAbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-6-task-GoldTamuno\\SQ20.Net-Week6-Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\nunittestadapter\\2.3.0\\nunittestadapter.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
